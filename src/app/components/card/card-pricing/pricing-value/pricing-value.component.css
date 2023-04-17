@@ -1,0 +1,13 @@
+.card-pricing__value{
+  display: flex;
+  justify-content: space-between;
+}
+.card-pricing__value__console{
+  display: flex;
+}
+
+.card-pricing__value__console > span{
+  font-weight: bolder;
+  color: aqua;
+  margin-right: .625rem;
+}
